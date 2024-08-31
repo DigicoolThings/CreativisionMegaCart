@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "EdgeConnector")(type "Legacy")(uri "${KIPRJMOD}/EdgeConnector.lib")(options "")(descr ""))
-)
